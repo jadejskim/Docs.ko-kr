@@ -1,5 +1,5 @@
 ---
-title: "ASP.NET Core에 로그인"
+title: "ASP.NET Core의 로깅"
 author: ardalis
 description: "ASP.NET Core의 로깅 프레임워크에 대해 알아봅니다. 기본 제공 로깅 공급자를 살펴보고 인기 있는 타사 공급자에 대해 알아봅니다."
 manager: wpickett
@@ -15,7 +15,7 @@ ms.translationtype: HT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 01/30/2018
 ---
-# <a name="introduction-to-logging-in-aspnet-core"></a>ASP.NET Core에 로그인 소개
+# <a name="introduction-to-logging-in-aspnet-core"></a>ASP.NET Core의 로깅 소개
 
 작성자: [Steve Smith](https://ardalis.com/) 및 [Tom Dykstra](https://github.com/tdykstra)
 
